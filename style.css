@@ -1,0 +1,28 @@
+.head1 {
+  text-align: center;
+  font-size: -webkit-xxx-large;
+}
+
+.head2 {
+  text-align: center;
+}
+.main > h1 {
+  margin-bottom: 40px;
+}
+
+/* .confirm {
+  float: left;
+  margin-left: 60px;
+}
+.active {
+  float: left;
+  margin-right: 238px;
+  margin-left: 266px;
+}
+.recoverd {
+  float: left;
+}
+.death {
+  float: left;
+  margin-left: 244px; */
+}
